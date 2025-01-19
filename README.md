@@ -1,4 +1,4 @@
-# AI Car Simulation Using Nea
+# AI Car Simulation Using NEAT Algorithm
 
 This project is an AI-powered car simulation using Python, the NEAT algorithm, and Pygame. The goal of the simulation is to demonstrate how neural networks and genetic algorithms can train a car to navigate a track autonomously.
 
