@@ -38,7 +38,7 @@ Before running the project, ensure you have Python installed on your system (Pyt
 |    |—— Car
 |—— csvdata
 |    |—— CSV files
-|    |—— Data Conversition
+|    |—— Data Conversion
 |—— main.py
 |—— config.txt
 ```
